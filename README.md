@@ -18,7 +18,7 @@ Mayakoと申します。
 
 - **献立管理アプリ** 🍽  
 　週末のまとめ買いに役立つ献立管理アプリを開発中  
-- **クイズアプリ** ❓（Spring Boot + PostgreSQL）  
+- **クイズアプリ** ❓（Spring Boot + MySQL）  
 - **タスク管理アプリ** ✅（Flask + SQLite）
 
 ---
