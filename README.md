@@ -1,16 +1,40 @@
-## Hi there 👋
+# はじめまして 👋
 
-<!--
-**mayako1229/mayako1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mayakoと申します。  
+プログラマーやプログラミングの講師をしています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 使用中の技術
+
+- **バックエンド**: Java / Servlet / Spring Boot 
+- **データベース**: MySQL / SQLite
+- **フロントエンド**: HTML / CSS / JavaScript
+- **その他ツール**: Git / GitHub / Eclipse / VS Code / Figma
+
+---
+
+## 🗂️ 制作物
+
+- **献立管理アプリ** 🍽  
+　週末のまとめ買いに役立つ献立管理アプリを開発中  
+- **クイズアプリ** ❓（Spring Boot + PostgreSQL）  
+- **タスク管理アプリ** ✅（Flask + SQLite）
+
+---
+
+## 🎯 興味・目標
+
+- Webアプリケーション開発全般
+- UI/UX 改善
+- デプロイや運用のスキル向上
+
+---
+
+## ☕ すこしだけ自己紹介
+
+- 新しいことを少しずつ学びながら、アプリ開発を楽しんでいます！
+
+---
+
+よろしくお願いいたします！
